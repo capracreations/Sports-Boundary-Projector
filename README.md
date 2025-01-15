@@ -1,6 +1,6 @@
 # Sports-Boundary-Projector
 ## Overview
-![](/images/projector iso.png)  
+![](/images/projector_iso.png)  
 A projector capable of displaying boundary lines for a multitude of sports using masks.
 
 ## Requirements
